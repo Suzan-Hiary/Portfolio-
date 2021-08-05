@@ -32,6 +32,7 @@ class Profile extends React.Component {
     this.refs.main.scrollTop = 0;
   }
   render() {
+    const imgurl={}
     return (
       <>
         <DemoNavbar />
@@ -75,7 +76,7 @@ class Profile extends React.Component {
                           <img
                             alt="..."
                             className="rounded-circle"
-                            src={profile}
+                            src={}
                           />
                         </a>
                       </div>

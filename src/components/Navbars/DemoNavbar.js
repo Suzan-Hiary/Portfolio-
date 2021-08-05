@@ -193,7 +193,7 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://www.facebook.com/creativetim"
+                      href="https://web.facebook.com/suzan.hiary/"
                       id="tooltip333589074"
                       target="_blank"
                     >
@@ -207,14 +207,7 @@ class DemoNavbar extends React.Component {
                     </UncontrolledTooltip>
                   </NavItem>
                   <NavItem>
-                    <NavLink
-                      className="nav-link-icon"
-                      href="https://web.facebook.com/suzan.hiary"
-                      id="tooltip356693867"
-                      target="_blank"
-                    >
-                     
-                  </NavLink>
+                  
                   
                     <NavLink
                       className="nav-link-icon"
