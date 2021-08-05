@@ -215,12 +215,7 @@ We use GitHub Issues as the official bug tracker for the Argon Design System Rea
 
 ### Social Media
 
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
-
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+Facebook: <https://web.facebook.com/suzan.hiary/>
 
 live Url:  https://suzan-portfolio.netlify.app/ 
