@@ -45,17 +45,7 @@ class SimpleFooter extends React.Component {
                 </h4>
               </Col>
               <Col className="text-lg-center btn-wrapper" lg="6">
-                <Button
-                  className="btn-icon-only rounded-circle"
-                  color="twitter"
-                  href="https://twitter.com/creativetim"
-                  id="tooltip475038074"
-                  target="_blank"
-                >
-                  <span className="btn-inner--icon">
-                    <i className="fa fa-twitter" />
-                  </span>
-                </Button>
+            
                 <UncontrolledTooltip delay={0} target="tooltip475038074">
                   Follow us
                 </UncontrolledTooltip>
