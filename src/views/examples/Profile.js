@@ -32,7 +32,7 @@ class Profile extends React.Component {
     this.refs.main.scrollTop = 0;
   }
   render() {
-    const imgurl={}
+    const imgurl = {}
     return (
       <>
         <DemoNavbar />
@@ -72,13 +72,9 @@ class Profile extends React.Component {
                   <Row className="justify-content-center">
                     <Col className="order-lg-2" lg="3">
                       <div className="card-profile-image">
-                        <a href="#pablo" onClick={e => e.preventDefault()}>
-                          <img
-                            alt="..."
-                            className="rounded-circle"
-                            src={}
-                          />
-                        </a>
+
+                        <img src='./suzan.jpg' alt="profilePic"></img>
+
                       </div>
                     </Col>
                     <Col
@@ -95,10 +91,10 @@ class Profile extends React.Component {
                         >
                           Connect
                         </Button>
-                        
+
                       </div>
                     </Col>
-                   
+
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
@@ -111,7 +107,7 @@ class Profile extends React.Component {
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Civil Engineer 
+                      Civil Engineer
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
@@ -122,10 +118,10 @@ class Profile extends React.Component {
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                        studying software engineering in
-                         Admission Unit - Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)
+                          studying software engineering in
+                          Admission Unit - Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)
                         </p>
-                        
+
                       </Col>
                     </Row>
                   </div>
